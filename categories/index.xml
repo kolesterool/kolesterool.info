@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Kolesterool.info</title>
-    <link>https://kolesterool.staging.that.ee/categories/</link>
+    <link>https://kolesterool.dev.that.ee/categories/</link>
     <description>Recent content in Categories on Kolesterool.info</description>
     <generator>Hugo -- 0.129.0</generator>
-    <language>en-us</language>
-    <atom:link href="https://kolesterool.staging.that.ee/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>et-EE</language>
+    <atom:link href="https://kolesterool.dev.that.ee/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
