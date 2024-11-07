@@ -8,16 +8,6 @@
     <language>et-EE</language>
     <atom:link href="https://kolesterool.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://kolesterool.info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolesterool.info/</guid>
-      <description>Sinu terve südame heaks Südame-veresoonkonna haigused on kõige sagedasem surmapõhjus Eestis, mis põhjustab kaks korda rohkem surmasid kui kõik pahaloomulised kasvajad kokku.
-Südame-veresoonkonna haigused mõjutavad nii südant kui ka veresooni. Üheks südame-veresoonkonna haiguste peamiseks riskiteguriks on kõrge LDL-kolesterooli ehk &amp;ldquo;halva&amp;rdquo; kolesterooli tase. Õnneks südame-veresoonkonna haigused on ennetatavad ja iga inimene saab oma haigestumise riski mõjutada.
-Teised südame-veresoonkonna haiguste riskitegurid lisaks LDL-kolesteroolile, mida saate ise mõjutada on:
-suitsetamine kõrge vererõhk diabeet ehk suhkruhaigus vähene füüsiline aktiivsus ebatervislik toitumine Lisaks mõjutavad südame-veresoonkonna haiguste riski vanus ja geneetiline eelsoodumus.</description>
-    </item>
-    <item>
       <title>Kasutustingimused</title>
       <link>https://kolesterool.info/kasutustingimused/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,7 +41,7 @@ Juhul kui inimene juba on põdenud südamelihase infarkti või insulti, siis rav
       <link>https://kolesterool.info/kolesterooli-tase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kolesterool.info/kolesterooli-tase/</guid>
-      <description>Käesolev sisulehekülg on loomisel.</description>
+      <description>Kõrge kolesterooli tase veres on mitmete südame-veresoonkonna haiguste riskifaktoriks. Sellisteks haigusteks on näiteks südamelihase infarkt ja insult.</description>
     </item>
     <item>
       <title>Kõrge kolesterool</title>
@@ -61,12 +51,11 @@ Juhul kui inimene juba on põdenud südamelihase infarkti või insulti, siis rav
       <description>Käesolev sisulehekülg on loomisel.</description>
     </item>
     <item>
-      <title>Lipoproteiin a (S-Lp(a))</title>
+      <title>Lipoproteiin a – südame- ja veresoonkonna haiguste riskifaktor</title>
       <link>https://kolesterool.info/lipoproteiin-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kolesterool.info/lipoproteiin-a/</guid>
-      <description>Lipoproteiin a ehk Lp(a) Mis on lipoproteiin a ehk Lp(a)? Lipoproteiin a on LDL-ehk “halva” kolesterooliga sarnane osake, millel on põletikku ja naastude teket ehk veresoonte “lupjumist” soodustavad omadused, mistõttu kõrgenenud lipoproteiin a tase põhjustab südame-veresoonkonna haigusi (infarkt, insult) ning lisaks on leitud seos lipoproteiin a kõrgenenud taseme ning aordiklapi stenoosi vahel. Üldiselt, mida kõrgem on lipoproteiin a tase veres, seda suurem risk on nende tüsistuste tekkeks.
-NB! Kõrgenenud lipoproteiin a on riskitegur isegi väga madala LDL- ehk “halva” kolesterooli taseme korral.</description>
+      <description>Lp(a) on kolesteroolirikas lipoproteiin, mida sünteesitakse maksas. Lp(a) tase eluea jooksul on stabiilne.  Lp(a) tase on geneetiliselt määratud, elu jooksul suhteliselt stabiilne ja seda ei mõjuta vanus, elustiil ega enamik ravimeid.</description>
     </item>
     <item>
       <title>Mis on kolesterool</title>
@@ -91,6 +80,16 @@ Perekondlikule hüperkolesteroleemiale on iseloomulik LDL- ehk “halva” koles
       <guid>https://kolesterool.info/privaatsuspoliitika/</guid>
       <description>Privaatsuspoliitika Jõustumiskuupäev: 29. september 2021
 Privaatsuspoliitikas on sätestatud, kuidas SIA Novartis Baltics (&amp;ldquo;Novartis&amp;rdquo;, &amp;ldquo;meie&amp;rdquo; või &amp;ldquo;me&amp;rdquo;), mille registrijärgne asukoht on Skanstes iela 25, Riga (LV-1013), Latvia, kogub ja töötleb teid otseselt või kaudselt tuvastavat teavet (&amp;ldquo;isikuandmed&amp;rdquo;), tehes seda kas omaette või koos andmetega, mis on meile kättesaadavad meie ja teie vahelise sellise suhtluse tulemusel, mis toimub läbi meie veebisaitide (sealhulgas www.novartis.ee) või Novartise mis tahes mobiililehe, rakenduse või muu teenuse (nii internetis kui ka väljaspool seda), millel on esitatud link sellele privaatsuspoliitikale või selle privaatsuspoliitika tekst (ühiselt &amp;ldquo;teenused&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>Sinu terve südame heaks</title>
+      <link>https://kolesterool.info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kolesterool.info/</guid>
+      <description>Sinu terve südame heaks Südame-veresoonkonna haigused on kõige sagedasem surmapõhjus Eestis, mis põhjustab kaks korda rohkem surmasid kui kõik pahaloomulised kasvajad kokku.
+Südame-veresoonkonna haigused mõjutavad nii südant kui ka veresooni. Üheks südame-veresoonkonna haiguste peamiseks riskiteguriks on kõrge LDL-kolesterooli ehk &amp;ldquo;halva&amp;rdquo; kolesterooli tase. Õnneks südame-veresoonkonna haigused on ennetatavad ja iga inimene saab oma haigestumise riski mõjutada.
+Teised südame-veresoonkonna haiguste riskitegurid lisaks LDL-kolesteroolile, mida saate ise mõjutada on:
+suitsetamine kõrge vererõhk diabeet ehk suhkruhaigus vähene füüsiline aktiivsus ebatervislik toitumine Lisaks mõjutavad südame-veresoonkonna haiguste riski vanus ja geneetiline eelsoodumus.</description>
     </item>
     <item>
       <title>Tervislik toitumine</title>
