@@ -80,10 +80,7 @@
         })(window,document,'script','dataLayer','GTM-TW4XJW5M');</script>
     
 
-    
-  
-
-<meta property="og:title" content="Kõrge kolesterool" />
+    <meta property="og:title" content="Kõrge kolesterool" />
 <meta property="og:description" content="Kõrge kolesterooli tase veres on mitmete südame-veresoonkonna haiguste riskifaktoriks. Sellisteks haigusteks on näiteks südamelihase infarkt ja insult." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kolesterool.info/korge-kolesterool/" /><meta property="article:section" content="" />
@@ -210,22 +207,21 @@
 <footer class="footer">
     <span><a href="https://kolesterool.info/">Kolesterool.info</a></span> · 
 
+    <a href="https://www.novartis.com/ee-et/meist/kontakt" target="_blank">Kontakt</a> · 
     <a href="/kasutustingimused/">Kasutustingimused</a> · 
-    <a href="/privaatsuspoliitika/">Privaatsuspoliitika</a> · 
-
-    06/2024 FA-11209454
+    <a href="/privaatsuspoliitika/">Privaatsuspoliitika</a>
 
     <div>
         See veebileht on mõeldud Eesti inimestele.<br>
         &copy; 2024 SIA Novartis Baltics
     </div>
     <div>
-        <a href="https://www.novartis.com/ee-et/meist/kontakt">
+        <a href="https://www.novartis.com/ee-et/meist/kontakt" target="_blank">
             <img loading="lazy" src="/assets/images/novartis-logo.svg" width="100px" height="15px" alt="Novartis logo"
                 aria-label="Novartis logo" style="margin: 2em auto;"></a>
     </div>
     <div style="font-size: 80%;">
-        Version 1.0.4
+        06/2024 FA-11209454 ·  1.0.4 ·  14.11.24 15:29
     </div>
 </footer>
 
@@ -236,8 +232,9 @@
 
 <script>
     $('a').each(function () {
-        var a = new RegExp('/' + window.location.host + '/');
-        if (!a.test(this.href)) {
+        let a = new RegExp('/' + window.location.host + '/');
+        let b = new RegExp('^https:\/\/www.novartis\.com');
+        if (!a.test(this.href) && !b.test(this.href)) {
             $(this).attr("target", "_blank");
             $(this).click(e => {
                 externalLinkConfirmation();

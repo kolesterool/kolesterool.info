@@ -7,7 +7,8 @@
 <meta name="robots" content="index, follow">
 <title>Tervislik toitumine | Kolesterool.info</title>
 <meta name="keywords" content="">
-<meta name="description" content="Tervislik toitumine Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee.">
+<meta name="description" content="Tervislik toitumine
+Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee.">
 <meta name="author" content="">
 <link rel="canonical" href="https://kolesterool.info/tervislik-toitumine/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.4203d81ad0d3518818cf2aca64cd082b70a1d93780b98185343de4255a551603.css" integrity="sha256-QgPYGtDTUYgYzyrKZM0IK3Ch2TeAuYGFND3kJVpVFgM=" rel="preload stylesheet" as="style">
@@ -80,11 +81,9 @@
         })(window,document,'script','dataLayer','GTM-TW4XJW5M');</script>
     
 
-    
-  
-
-<meta property="og:title" content="Tervislik toitumine" />
-<meta property="og:description" content="Tervislik toitumine Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee." />
+    <meta property="og:title" content="Tervislik toitumine" />
+<meta property="og:description" content="Tervislik toitumine
+Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kolesterool.info/tervislik-toitumine/" /><meta property="article:section" content="" />
 
@@ -92,7 +91,8 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Tervislik toitumine"/>
-<meta name="twitter:description" content="Tervislik toitumine Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee."/>
+<meta name="twitter:description" content="Tervislik toitumine
+Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee."/>
 
 
 <script type="application/ld+json">
@@ -115,7 +115,7 @@
   "@type": "BlogPosting",
   "headline": "Tervislik toitumine",
   "name": "Tervislik toitumine",
-  "description": "Tervislik toitumine Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee.",
+  "description": "Tervislik toitumine Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt toitumine.ee.\n",
   "keywords": [
     
   ],
@@ -210,22 +210,21 @@
 <footer class="footer">
     <span><a href="https://kolesterool.info/">Kolesterool.info</a></span> · 
 
+    <a href="https://www.novartis.com/ee-et/meist/kontakt" target="_blank">Kontakt</a> · 
     <a href="/kasutustingimused/">Kasutustingimused</a> · 
-    <a href="/privaatsuspoliitika/">Privaatsuspoliitika</a> · 
-
-    10/2024 FA-11297252
+    <a href="/privaatsuspoliitika/">Privaatsuspoliitika</a>
 
     <div>
         See veebileht on mõeldud Eesti inimestele.<br>
         &copy; 2024 SIA Novartis Baltics
     </div>
     <div>
-        <a href="https://www.novartis.com/ee-et/meist/kontakt">
+        <a href="https://www.novartis.com/ee-et/meist/kontakt" target="_blank">
             <img loading="lazy" src="/assets/images/novartis-logo.svg" width="100px" height="15px" alt="Novartis logo"
                 aria-label="Novartis logo" style="margin: 2em auto;"></a>
     </div>
     <div style="font-size: 80%;">
-        Version 1.0.4
+        10/2024 FA-11297252 ·  1.0.4 ·  14.11.24 15:29
     </div>
 </footer>
 
@@ -236,8 +235,9 @@
 
 <script>
     $('a').each(function () {
-        var a = new RegExp('/' + window.location.host + '/');
-        if (!a.test(this.href)) {
+        let a = new RegExp('/' + window.location.host + '/');
+        let b = new RegExp('^https:\/\/www.novartis\.com');
+        if (!a.test(this.href) && !b.test(this.href)) {
             $(this).attr("target", "_blank");
             $(this).click(e => {
                 externalLinkConfirmation();
