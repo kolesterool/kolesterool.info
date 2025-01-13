@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kolesterool.info</title>
-    <link>http://localhost:1313/</link>
+    <link>https://kolesterool.info/</link>
     <description>Recent content on Kolesterool.info</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>et-EE</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kolesterool.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kasutustingimused</title>
-      <link>http://localhost:1313/kasutustingimused/</link>
+      <link>https://kolesterool.info/kasutustingimused/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kasutustingimused/</guid>
+      <guid>https://kolesterool.info/kasutustingimused/</guid>
       <description>&lt;div style=&#34;font-size: 80%;&#34;&gt;
     &lt;h2 id=&#34;kasutustingimused&#34;&gt;Kasutustingimused&lt;/h2&gt;
 &lt;p&gt;Uuendatud 26. aprillil 2010&lt;/p&gt;
@@ -26,61 +26,61 @@
     </item>
     <item>
       <title>Kolesterooli mõõtmine - mida peaks mõõtma ja kus</title>
-      <link>http://localhost:1313/kolesterooli-mootmine/</link>
+      <link>https://kolesterool.info/kolesterooli-mootmine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kolesterooli-mootmine/</guid>
+      <guid>https://kolesterool.info/kolesterooli-mootmine/</guid>
       <description>Vereanalüüsi tegemiseks pöördu perearsti poole või iseseisvalt mõnda usaldusväärsesse laborisse (SYNLAB, Meliva). Mõõtma peaksid kindlasti &amp;#34;halva&amp;#34; kolesterooli taset, mis peaks olema alla 3 mmol/l.</description>
     </item>
     <item>
       <title>Kolesterooli ravimid</title>
-      <link>http://localhost:1313/kolesterooli-ravimid/</link>
+      <link>https://kolesterool.info/kolesterooli-ravimid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kolesterooli-ravimid/</guid>
+      <guid>https://kolesterool.info/kolesterooli-ravimid/</guid>
       <description>Kõik kolesterooli ravimid on retseptiravimid. Esimeseks valikuks on tablettravi – statiin ja esetimiib. Juhul kui tablettraviga ei saavutata LDL-kolesterooli eesmärki, lisatakse raviskeemi süstitav ravim.</description>
     </item>
     <item>
       <title>Kolesterooli tase</title>
-      <link>http://localhost:1313/kolesterooli-tase/</link>
+      <link>https://kolesterool.info/kolesterooli-tase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kolesterooli-tase/</guid>
+      <guid>https://kolesterool.info/kolesterooli-tase/</guid>
       <description>Kõrge kolesterooli tase veres on mitmete südame-veresoonkonna haiguste riskifaktoriks. Sellisteks haigusteks on näiteks südamelihase infarkt ja insult.</description>
     </item>
     <item>
       <title>Kõrge kolesterool</title>
-      <link>http://localhost:1313/korge-kolesterool/</link>
+      <link>https://kolesterool.info/korge-kolesterool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/korge-kolesterool/</guid>
+      <guid>https://kolesterool.info/korge-kolesterool/</guid>
       <description>Kõrge kolesterooli tase veres on mitmete südame-veresoonkonna haiguste riskifaktoriks. Sellisteks haigusteks on näiteks südamelihase infarkt ja insult.</description>
     </item>
     <item>
       <title>Lipoproteiin a – südame- ja veresoonkonna haiguste riskifaktor</title>
-      <link>http://localhost:1313/lipoproteiin-a/</link>
+      <link>https://kolesterool.info/lipoproteiin-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lipoproteiin-a/</guid>
+      <guid>https://kolesterool.info/lipoproteiin-a/</guid>
       <description>Lp(a) on kolesteroolirikas lipoproteiin, mida sünteesitakse maksas. Lp(a) tase on geneetiliselt määratud, elu jooksul suhteliselt stabiilne ja seda ei mõjuta vanus, elustiil ega enamik ravimeid.</description>
     </item>
     <item>
       <title>Mis on kolesterool</title>
-      <link>http://localhost:1313/mis-on-kolesterool/</link>
+      <link>https://kolesterool.info/mis-on-kolesterool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mis-on-kolesterool/</guid>
+      <guid>https://kolesterool.info/mis-on-kolesterool/</guid>
       <description>&lt;p&gt;Käesolev sisulehekülg on loomisel.&lt;/p&gt;
 &lt;p&gt;Südame tervise seisukohalt häid soovitusi toiduainete valikuks leiate &lt;a href=&#34;https://www.itk.ee/patsiendile/patsiendi-infomaterjalid/haigused/duslipideemia&#34;&gt;Ida-Tallinna Keskhaigla kodulehelt&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perekondlik hüperkolesteroleemia</title>
-      <link>http://localhost:1313/perekondlik-huperkolesteroleemia/</link>
+      <link>https://kolesterool.info/perekondlik-huperkolesteroleemia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perekondlik-huperkolesteroleemia/</guid>
+      <guid>https://kolesterool.info/perekondlik-huperkolesteroleemia/</guid>
       <description>&lt;h2 id=&#34;perekondlik-hüpershykolesteroleemia&#34;&gt;Perekondlik hüper­kolesteroleemia&lt;/h2&gt;
 &lt;p&gt;Kõrge kolesteroolitase on tihti seotud ebatervislike eluviisidega nagu halb toitumine ja vähene liikumine, kuid &lt;strong&gt;perekondlik hüperkolesteroleemia on geneetiline ehk pärilik haigus&lt;/strong&gt;, mis põhjustab kõrget LDL- ehk „halva“ kolesterooli taset juba sünnist alates. Perekondliku hüperkolesteroleemiaga inimestel on oluliselt suurem risk varajase südamelihase infarkti tekkeks, isegi kui nad säilitavad tervisliku eluviisi.&lt;/p&gt;
 &lt;p&gt;Perekondlikule hüperkolesteroleemiale on iseloomulik &lt;strong&gt;LDL- ehk “halva” kolesterooli tase ≥ 5 mmol/l ning perekondlik pärandumine&lt;/strong&gt;, mis tähendab et kõrge kolesteroolitase esineb tavaliselt ka mõnel pereliikmel.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Privaatsuspoliitika</title>
-      <link>http://localhost:1313/privaatsuspoliitika/</link>
+      <link>https://kolesterool.info/privaatsuspoliitika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privaatsuspoliitika/</guid>
+      <guid>https://kolesterool.info/privaatsuspoliitika/</guid>
       <description>&lt;div style=&#34;font-size: 80%;&#34;&gt;
     &lt;h2 id=&#34;privaatsuspoliitika&#34;&gt;Privaatsuspoliitika&lt;/h2&gt;
 &lt;p&gt;Jõustumiskuupäev: 29. september 2021&lt;/p&gt;
@@ -88,12 +88,12 @@
     </item>
     <item>
       <title>Sinu terve südame heaks</title>
-      <link>http://localhost:1313/</link>
+      <link>https://kolesterool.info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
+      <guid>https://kolesterool.info/</guid>
       <description>&lt;h2 id=&#34;sinu-terve-südame-heaks&#34;&gt;Sinu terve südame heaks&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Südame-veresoonkonna haigused on kõige sagedasem surmapõhjus Eestis,&lt;/strong&gt; mis põhjustab kaks korda rohkem surmasid kui kõik pahaloomulised kasvajad kokku.&lt;/p&gt;
-&lt;p&gt;Südame-veresoonkonna haigused mõjutavad nii südant kui ka veresooni. Üheks südame-veresoonkonna haiguste peamiseks riskiteguriks on kõrge LDL-kolesterooli ehk &amp;ldquo;halva&amp;rdquo; &lt;a href=&#34;http://localhost:1313/kolesterooli-tase/&#34;&gt;kolesterooli tase&lt;/a&gt;. Õnneks südame-veresoonkonna haigused on ennetatavad ja iga inimene saab oma haigestumise riski mõjutada.&lt;/p&gt;
+&lt;p&gt;Südame-veresoonkonna haigused mõjutavad nii südant kui ka veresooni. Üheks südame-veresoonkonna haiguste peamiseks riskiteguriks on kõrge LDL-kolesterooli ehk &amp;ldquo;halva&amp;rdquo; &lt;a href=&#34;https://kolesterool.info/kolesterooli-tase/&#34;&gt;kolesterooli tase&lt;/a&gt;. Õnneks südame-veresoonkonna haigused on ennetatavad ja iga inimene saab oma haigestumise riski mõjutada.&lt;/p&gt;
 &lt;p&gt;Teised südame-veresoonkonna haiguste riskitegurid lisaks LDL-kolesteroolile, mida saate ise mõjutada on:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;suitsetamine,&lt;/li&gt;
@@ -106,9 +106,9 @@
     </item>
     <item>
       <title>Tervislik toitumine</title>
-      <link>http://localhost:1313/tervislik-toitumine/</link>
+      <link>https://kolesterool.info/tervislik-toitumine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tervislik-toitumine/</guid>
+      <guid>https://kolesterool.info/tervislik-toitumine/</guid>
       <description>&lt;h2 id=&#34;tervislik-toitumine&#34;&gt;Tervislik toitumine&lt;/h2&gt;
 &lt;p&gt;Häid soovitusi tervislikuks toitumiseks leiate Tervise Arengu Instituudi leheküljelt &lt;a href=&#34;https://toitumine.ee/&#34;&gt;toitumine.ee&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
